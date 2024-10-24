@@ -1,0 +1,26 @@
+{
+  "name": "evaluacion",
+  "version": "1.0.0",
+  "description": "evaluacion modulo 6 sesion 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagoyizm/Modulo6Evaluacion2.git"
+  },
+  "author": "andres vega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagoyizm/Modulo6Evaluacion2/issues"
+  },
+  "homepage": "https://github.com/nagoyizm/Modulo6Evaluacion2#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "lodash": "^4.17.21",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tslib": "^2.8.0"
+  }
+}
